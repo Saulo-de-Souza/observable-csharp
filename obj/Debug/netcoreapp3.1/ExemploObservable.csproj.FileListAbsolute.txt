@@ -11,3 +11,16 @@ C:\Users\Saulo\Desktop\Exemplo Simples Observable em csharp\ExemploObservable\ob
 C:\Users\Saulo\Desktop\Exemplo Simples Observable em csharp\ExemploObservable\obj\Debug\netcoreapp3.1\ExemploObservable.dll
 C:\Users\Saulo\Desktop\Exemplo Simples Observable em csharp\ExemploObservable\obj\Debug\netcoreapp3.1\ExemploObservable.pdb
 C:\Users\Saulo\Desktop\Exemplo Simples Observable em csharp\ExemploObservable\obj\Debug\netcoreapp3.1\ExemploObservable.genruntimeconfig.cache
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\bin\Debug\netcoreapp3.1\ExemploObservable.exe
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\bin\Debug\netcoreapp3.1\ExemploObservable.deps.json
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\bin\Debug\netcoreapp3.1\ExemploObservable.runtimeconfig.json
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\bin\Debug\netcoreapp3.1\ExemploObservable.runtimeconfig.dev.json
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\bin\Debug\netcoreapp3.1\ExemploObservable.dll
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\bin\Debug\netcoreapp3.1\ExemploObservable.pdb
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\obj\Debug\netcoreapp3.1\ExemploObservable.csprojAssemblyReference.cache
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\obj\Debug\netcoreapp3.1\ExemploObservable.AssemblyInfoInputs.cache
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\obj\Debug\netcoreapp3.1\ExemploObservable.AssemblyInfo.cs
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\obj\Debug\netcoreapp3.1\ExemploObservable.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\obj\Debug\netcoreapp3.1\ExemploObservable.dll
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\obj\Debug\netcoreapp3.1\ExemploObservable.pdb
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\obj\Debug\netcoreapp3.1\ExemploObservable.genruntimeconfig.cache
