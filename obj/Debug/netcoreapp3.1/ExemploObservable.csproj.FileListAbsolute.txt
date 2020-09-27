@@ -1,0 +1,13 @@
+C:\Users\Saulo\Desktop\Exemplo Simples Observable em csharp\ExemploObservable\bin\Debug\netcoreapp3.1\ExemploObservable.exe
+C:\Users\Saulo\Desktop\Exemplo Simples Observable em csharp\ExemploObservable\bin\Debug\netcoreapp3.1\ExemploObservable.deps.json
+C:\Users\Saulo\Desktop\Exemplo Simples Observable em csharp\ExemploObservable\bin\Debug\netcoreapp3.1\ExemploObservable.runtimeconfig.json
+C:\Users\Saulo\Desktop\Exemplo Simples Observable em csharp\ExemploObservable\bin\Debug\netcoreapp3.1\ExemploObservable.runtimeconfig.dev.json
+C:\Users\Saulo\Desktop\Exemplo Simples Observable em csharp\ExemploObservable\bin\Debug\netcoreapp3.1\ExemploObservable.dll
+C:\Users\Saulo\Desktop\Exemplo Simples Observable em csharp\ExemploObservable\bin\Debug\netcoreapp3.1\ExemploObservable.pdb
+C:\Users\Saulo\Desktop\Exemplo Simples Observable em csharp\ExemploObservable\obj\Debug\netcoreapp3.1\ExemploObservable.csprojAssemblyReference.cache
+C:\Users\Saulo\Desktop\Exemplo Simples Observable em csharp\ExemploObservable\obj\Debug\netcoreapp3.1\ExemploObservable.AssemblyInfoInputs.cache
+C:\Users\Saulo\Desktop\Exemplo Simples Observable em csharp\ExemploObservable\obj\Debug\netcoreapp3.1\ExemploObservable.AssemblyInfo.cs
+C:\Users\Saulo\Desktop\Exemplo Simples Observable em csharp\ExemploObservable\obj\Debug\netcoreapp3.1\ExemploObservable.csproj.CoreCompileInputs.cache
+C:\Users\Saulo\Desktop\Exemplo Simples Observable em csharp\ExemploObservable\obj\Debug\netcoreapp3.1\ExemploObservable.dll
+C:\Users\Saulo\Desktop\Exemplo Simples Observable em csharp\ExemploObservable\obj\Debug\netcoreapp3.1\ExemploObservable.pdb
+C:\Users\Saulo\Desktop\Exemplo Simples Observable em csharp\ExemploObservable\obj\Debug\netcoreapp3.1\ExemploObservable.genruntimeconfig.cache
