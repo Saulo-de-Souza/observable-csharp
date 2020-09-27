@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GoogleDrive\\3-Projetos\\Observable em csharp\\master\\ExemploObservable.csproj": {}
+    "d:\\GoogleDrive\\3-Projetos\\Observable em csharp\\master\\observable-csharp\\ExemploObservable.csproj": {}
   },
   "projects": {
-    "D:\\GoogleDrive\\3-Projetos\\Observable em csharp\\master\\ExemploObservable.csproj": {
+    "d:\\GoogleDrive\\3-Projetos\\Observable em csharp\\master\\observable-csharp\\ExemploObservable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GoogleDrive\\3-Projetos\\Observable em csharp\\master\\ExemploObservable.csproj",
+        "projectUniqueName": "d:\\GoogleDrive\\3-Projetos\\Observable em csharp\\master\\observable-csharp\\ExemploObservable.csproj",
         "projectName": "ExemploObservable",
-        "projectPath": "D:\\GoogleDrive\\3-Projetos\\Observable em csharp\\master\\ExemploObservable.csproj",
+        "projectPath": "d:\\GoogleDrive\\3-Projetos\\Observable em csharp\\master\\observable-csharp\\ExemploObservable.csproj",
         "packagesPath": "C:\\Users\\Saulo\\.nuget\\packages\\",
-        "outputPath": "D:\\GoogleDrive\\3-Projetos\\Observable em csharp\\master\\obj\\",
+        "outputPath": "d:\\GoogleDrive\\3-Projetos\\Observable em csharp\\master\\observable-csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",

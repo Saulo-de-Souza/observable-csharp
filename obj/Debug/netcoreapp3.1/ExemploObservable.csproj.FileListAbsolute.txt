@@ -24,3 +24,16 @@ D:\GoogleDrive\3-Projetos\Observable em csharp\master\obj\Debug\netcoreapp3.1\Ex
 D:\GoogleDrive\3-Projetos\Observable em csharp\master\obj\Debug\netcoreapp3.1\ExemploObservable.dll
 D:\GoogleDrive\3-Projetos\Observable em csharp\master\obj\Debug\netcoreapp3.1\ExemploObservable.pdb
 D:\GoogleDrive\3-Projetos\Observable em csharp\master\obj\Debug\netcoreapp3.1\ExemploObservable.genruntimeconfig.cache
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\observable-csharp\bin\Debug\netcoreapp3.1\ExemploObservable.exe
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\observable-csharp\bin\Debug\netcoreapp3.1\ExemploObservable.deps.json
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\observable-csharp\bin\Debug\netcoreapp3.1\ExemploObservable.runtimeconfig.json
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\observable-csharp\bin\Debug\netcoreapp3.1\ExemploObservable.runtimeconfig.dev.json
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\observable-csharp\bin\Debug\netcoreapp3.1\ExemploObservable.dll
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\observable-csharp\bin\Debug\netcoreapp3.1\ExemploObservable.pdb
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\observable-csharp\obj\Debug\netcoreapp3.1\ExemploObservable.csprojAssemblyReference.cache
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\observable-csharp\obj\Debug\netcoreapp3.1\ExemploObservable.AssemblyInfoInputs.cache
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\observable-csharp\obj\Debug\netcoreapp3.1\ExemploObservable.AssemblyInfo.cs
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\observable-csharp\obj\Debug\netcoreapp3.1\ExemploObservable.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\observable-csharp\obj\Debug\netcoreapp3.1\ExemploObservable.dll
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\observable-csharp\obj\Debug\netcoreapp3.1\ExemploObservable.pdb
+D:\GoogleDrive\3-Projetos\Observable em csharp\master\observable-csharp\obj\Debug\netcoreapp3.1\ExemploObservable.genruntimeconfig.cache

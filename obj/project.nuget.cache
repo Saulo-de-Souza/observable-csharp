@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4LoVd/tGzyLXbYR9TYT1Us7TtlbDpx0BHM3QiO+kSvKwvEYtBz8HaaaJSa3IG4dHhd38fBDEQ9kbg5AVVHc4mg==",
+  "dgSpecHash": "qhvUkQ84pZf5rVHKSiT6MPA+tQS2vqF7lFtqJapCxRv84D+KGa4i9qlzIW5N8y/GV3QK/jX5weLo6RS+QXtHGg==",
   "success": true,
-  "projectFilePath": "D:\\GoogleDrive\\3-Projetos\\Observable em csharp\\master\\ExemploObservable.csproj",
+  "projectFilePath": "d:\\GoogleDrive\\3-Projetos\\Observable em csharp\\master\\observable-csharp\\ExemploObservable.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

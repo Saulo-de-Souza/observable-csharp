@@ -104,7 +104,7 @@ namespace ExemploObservable
 
             // Enviando uma notificação
             channel.Notify("Enviando notificação 1");
-    
+
             // Desinscrevendo o objeto aline das notificações
             channel.Unsubscribe(aline);
 
