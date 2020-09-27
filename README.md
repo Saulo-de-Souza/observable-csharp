@@ -10,8 +10,13 @@ Exemplo de como utilizar o Design Pattern com Observable no CSHARP
 // Interface para ser implementada a classe que irá enviar as notificações:
 public interface IMySubject
 {
+    // Método de inscrição. Aqui tem como parâmentro um objeto da classe Pessoa
     void Subscribe(Pessoa pessoa);
+
+    // Método de remover a inscrição. Aqui tem como parâmentro um objeto da classe Pessoa
     void Unsubscribe(Pessoa pessoa);
+
+    // Método de notificação. Aqui tem como parâmentro uma string
     void Notify(string valor);
 }
 ```
@@ -20,6 +25,7 @@ public interface IMySubject
 // Interface para ser implementada a classe que irá receber as notificações:
 public interface IMyObservable
 {
+    // Método que irá receber as notifições
     void Update(string valor);
 }
 ```
